@@ -325,6 +325,7 @@ Museums
 
 * `Canada Science and Technology Museums Corporation's Open Data <http://techno-science.ca/en/data.php>`_
 * `Cooper-Hewitt's Collection Database <https://github.com/cooperhewitt/collection>`_
+* `iDigBio US National Resource for Natural History Specimens and Images <https://www.idigbio.org/portal>`_
 * `Minneapolis Institute of Arts metadata <https://github.com/artsmia/collection>`_
 * `Natural History Museum (London) Data Portal <http://data.nhm.ac.uk/>`_
 * `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
